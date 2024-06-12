@@ -47,12 +47,25 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
 
 
-Ejemplo de clasificacion por parte del Clasificador:
+- Ejemplo de clasificacion por parte del Clasificador:
 
-![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/d604a73e-69c3-4a3f-bfe5-36bf01d03928)
+   ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/d604a73e-69c3-4a3f-bfe5-36bf01d03928)
 
-Puntuacion: 1 , fue clasificada como de mala calidad.
+   - Puntuacion: 1 , fue clasificada como de mala calidad.
 
-![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/e2c78897-9789-4ddb-8ca8-b5220fd06604)
+   ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/e2c78897-9789-4ddb-8ca8-b5220fd06604)
 
-Puntuacion:0, fue clasificada como de buena calidad.
+   - Puntuacion: 0, fue clasificada como de buena calidad.
+
+
+- Ejemplo de imagene generada por parte del modelo GAN:
+   - Imagen de entrada:
+ 
+   ![n01496331_18538](https://github.com/josemi32/TFM/assets/74961648/fc5749b5-a847-455c-838b-d27112df0d99)
+
+  - Imagen de salida:
+ 
+  - ![n01496331_18538 jpg](https://github.com/josemi32/TFM/assets/74961648/3191cc9b-78d8-49d5-87e9-366b9f727ee8)
+
+
+
