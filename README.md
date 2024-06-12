@@ -21,7 +21,7 @@ la nitidez de la imagen resultante, produce mejoras significativas
 en la calidad de las imágenes, tanto numérica como visualmente.
 
 
--En la carpeta Proyectos:
+- En la carpeta Proyectos:
 
    - En el archivo Entreno del Clasificador, se encuentra todo lo referente al entrenamiento correspondiente del clasificador desarrollado en este proyecto
    - ValidacionClasificador, es la validacion del clasificador sobre el conjunto de datos UIEB.
@@ -31,15 +31,15 @@ en la calidad de las imágenes, tanto numérica como visualmente.
    - UsoDeGan, es un ejemplo de como poder usar el model GAN para la mejora automatica de imagenes marinas.
 
 
--Pesos:
+- Pesos:
 
-   -En esta carpeta se encuentran todos los pesos de todos los modelos desarrollados.
-   -El primero es del clasificador/discriminador desarrollado para poder usarlo en cualquier momento.
-   -Luego se encuentra una separacion en dos carpetas, una con el peso del modelo GAN sin referencias y la otra con los pesos de los modelos entrenados con la referencia, cada uno en su carpeta pertinente.
+   - En esta carpeta se encuentran todos los pesos de todos los modelos desarrollados.
+   - El primero es del clasificador/discriminador desarrollado para poder usarlo en cualquier momento.
+   - Luego se encuentra una separacion en dos carpetas, una con el peso del modelo GAN sin referencias y la otra con los pesos de los modelos entrenados con la referencia, cada uno en su carpeta pertinente.
 
--ImagenesPruebas:
+- ImagenesPruebas:
 
-   -En esta carpeta se encuentra dos imagenes de prueba para el clasificador y para el generador que se muestran mas adelante, para que se pueda ver que salida dan.
+   - En esta carpeta se encuentra dos imagenes de prueba para el clasificador y para el generador que se muestran mas adelante, para que se pueda ver que salida dan.
 
 
 
