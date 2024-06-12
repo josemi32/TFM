@@ -46,7 +46,9 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
 
 Ejemplo de clasificacion por parte del Clasificador:
+
 ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/d604a73e-69c3-4a3f-bfe5-36bf01d03928)
+
 Puntuacion: 1 , fue clasificada como de mala calidad.
 
 ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/e2c78897-9789-4ddb-8ca8-b5220fd06604)
