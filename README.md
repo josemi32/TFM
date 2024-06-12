@@ -64,16 +64,16 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
 
 
-Por ultimo las dependencias del proyecto:
+- Por ultimo las dependencias del proyecto:
 
-PIL: 9.4.0
-numpy: 1.24.2
-tensorflow: 2.11.0
-torch: 2.0.0+cu118
-torchvision: 0.15.1+cu118
-pandas: 2.0.0
-sklearn: 1.2.2
-scypy: 1.10.1
+   - PIL: 9.4.0
+   - numpy: 1.24.2
+   - tensorflow: 2.11.0
+   - torch: 2.0.0+cu118
+   - torchvision: 0.15.1+cu118
+   - pandas: 2.0.0
+   - sklearn: 1.2.2
+   - scypy: 1.10.1
    
 
 
