@@ -42,11 +42,6 @@ en la calidad de las imágenes, tanto numérica como visualmente.
    - En esta carpeta se encuentra dos imagenes de prueba para el clasificador y para el generador que se muestran mas adelante, para que se pueda ver que salida dan.
 
 
-
-
-
-
-
 - Ejemplo de clasificacion por parte del Clasificador:
 
    ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/d604a73e-69c3-4a3f-bfe5-36bf01d03928)
@@ -59,13 +54,14 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
 
 - Ejemplo de imagene generada por parte del modelo GAN:
-   - Imagen de entrada:
+   - Imagen de entrada: La calidad de esta imagen es baja
  
    ![n01496331_18538](https://github.com/josemi32/TFM/assets/74961648/fc5749b5-a847-455c-838b-d27112df0d99)
 
-  - Imagen de salida:
- 
-  - ![n01496331_18538 jpg](https://github.com/josemi32/TFM/assets/74961648/3191cc9b-78d8-49d5-87e9-366b9f727ee8)
+  - Imagen de salida: Como se puede ver la calidad fue mejorada.
 
+   ![n01496331_18538 jpg](https://github.com/josemi32/TFM/assets/74961648/3191cc9b-78d8-49d5-87e9-366b9f727ee8)
+
+   
 
 
