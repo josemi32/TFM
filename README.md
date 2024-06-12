@@ -53,7 +53,7 @@ en la calidad de las imágenes, tanto numérica como visualmente.
    - Puntuacion: 0, fue clasificada como de buena calidad.
 
 
-- Ejemplo de imagene generada por parte del modelo GAN:
+- Ejemplo de imagene generada por parte del modelo GAN, que se ha considerado el que muestra mejores resultados, es decir, el L2AGR:
    - Imagen de entrada: La calidad de esta imagen es baja
  
    ![n01496331_18538](https://github.com/josemi32/TFM/assets/74961648/fc5749b5-a847-455c-838b-d27112df0d99)
