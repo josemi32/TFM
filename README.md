@@ -62,6 +62,18 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
    ![n01496331_18538 jpg](https://github.com/josemi32/TFM/assets/74961648/3191cc9b-78d8-49d5-87e9-366b9f727ee8)
 
+
+
+Por ultimo las dependencias del proyecto:
+
+PIL: 9.4.0
+numpy: 1.24.2
+tensorflow: 2.11.0
+torch: 2.0.0+cu118
+torchvision: 0.15.1+cu118
+pandas: 2.0.0
+sklearn: 1.2.2
+scypy: 1.10.1
    
 
 
