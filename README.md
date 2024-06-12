@@ -52,4 +52,5 @@ Ejemplo de clasificacion por parte del Clasificador:
 Puntuacion: 1 , fue clasificada como de mala calidad.
 
 ![im_f1000_](https://github.com/josemi32/TFM/assets/74961648/e2c78897-9789-4ddb-8ca8-b5220fd06604)
+
 Puntuacion:0, fue clasificada como de buena calidad.
