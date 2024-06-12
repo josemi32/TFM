@@ -32,11 +32,13 @@ en la calidad de las imágenes, tanto numérica como visualmente.
 
 
 -Pesos:
+
   -En esta carpeta se encuentran todos los pesos de todos los modelos desarrollados.
   -El primero es del clasificador/discriminador desarrollado para poder usarlo en cualquier momento.
   -Luego se encuentra una separacion en dos carpetas, una con el peso del modelo GAN sin referencias y la otra con los pesos de los modelos entrenados con la referencia, cada uno en su carpeta pertinente.
 
 -ImagenesPruebas:
+
   -En esta carpeta se encuentra dos imagenes de prueba para el clasificador y para el generador que se muestran mas adelante, para que se pueda ver que salida dan.
 
 
